@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Tiwari
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Web Developing
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development
 - 📫 Reach me at akast2041@gmail.com
 
 <!---
