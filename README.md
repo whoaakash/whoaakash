@@ -4,7 +4,7 @@ Hi 👋 My name is Akash
 Web Developer
 -------------
 
-* 🌍  I'm based in Gujarat
+* 🌍  I'm from India
 * ✉️  You can contact me at [akast2041@gmail.com](mailto:akast2041@gmail.com)
 * 🧠  I'm learning MERN
 * 🤝  I'm open to collaborating on Interesting Projects
